@@ -1,0 +1,17 @@
+.img1{
+    height: 10px;
+}
+.row{
+    backgroundColor:'red';
+    color:'white';
+    textAlign:'center';
+    margin:0 ;
+}
+.box-shadow {
+    font-family: cursive, sans-serif;
+    background-color: #0df37817;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 20px 23px #184129;
+  }

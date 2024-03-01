@@ -1,0 +1,19 @@
+.todo-button  {
+    height: 30px;
+    width: 80px;
+
+}
+.complete-btn {
+    height: 30px;
+    width: 80px;
+
+}
+.trash-btn {
+    height: 30px;
+    width: 80px;
+
+} 
+.todo-item{
+    height: 40px;
+    width: 700px;
+}

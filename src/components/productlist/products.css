@@ -1,0 +1,58 @@
+.card-text{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    overflow: scroll;
+    -webkit-box-orient: vertical;
+
+
+   
+}
+.col-md-3{
+    display:flex;
+    -ms-flex-direction: column;
+    
+    
+}
+.card-img-top{
+    max-height: 400;
+    max-width: 400;
+
+}
+.card-title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-decoration-color: rgb(23, 43, 20);
+}
+.card-body{
+    text-align: center;
+   
+}
+/*.btn btn-primary {
+    align-items: baseline;
+
+
+}*/
+ .pagination {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 16px;
+    gap: 5px;
+  }
+  .pagination .page-num {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .pagination .page-num:hover {
+    background-color: aqua;
+    color: white;
+  }
+  .pagination .active {
+    background-color: aqua;
+  } 
